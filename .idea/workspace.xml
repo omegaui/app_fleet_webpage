@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5e4791-37b4-4402-9e53-61a5c845ed8b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/animations/desktop-animation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/advanced.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/compatibility.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/features.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/backgrounds/overview.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/app-icon-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/budgie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/cinnamon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/flutter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/gnome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/kde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/terminal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/ubuntu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bug-report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/create-config.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/discard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gaming-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/home-view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mapper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/picker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/storage-structure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/updater.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/workspace-paths.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sen/Sen-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sen/Sen-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sen/Sen-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Sen/Sen-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/home_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/home_state_machine.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/home_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/advanced/advanced.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/compatibility/compatibility.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/features/features.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/features/widgets/workspace_carousel.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/more/more.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/more/widgets/link_text.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/overview/overview.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/screens/overview/widgets/download_button.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/states/home_state_view.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/app/presentation/widgets/navbar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/assets/app_animations.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/assets/app_backgrounds.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/assets/app_icons.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/assets/app_images.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config/theme/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants/unsupported_device_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/generated/assets.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.svg.vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WULwjk5TIYBI0cbbRGIba1ulqL" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "deploy",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5e4791-37b4-4402-9e53-61a5c845ed8b" name="Changes" comment="" />
+      <created>1696782452205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696782452205</updated>
+    </task>
+    <servers />
+  </component>
+</project>
