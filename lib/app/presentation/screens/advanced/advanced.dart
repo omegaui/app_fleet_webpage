@@ -1,6 +1,5 @@
 import 'package:app_fleet_webpage/app/presentation/home_controller.dart';
 import 'package:app_fleet_webpage/config/assets/app_backgrounds.dart';
-import 'package:app_fleet_webpage/config/assets/app_icons.dart';
 import 'package:app_fleet_webpage/config/assets/app_images.dart';
 import 'package:app_fleet_webpage/config/theme/app_theme.dart';
 import 'package:flutter/material.dart';
@@ -38,12 +37,12 @@ class Advanced extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Image.asset(
-                      AppImages.storageStructure,
-                      fit: BoxFit.cover,
-                      filterQuality: FilterQuality.high,
-                    ),
-                    const SizedBox(width: 10),
+                    // Image.asset(
+                    //   AppImages.storageStructure,
+                    //   fit: BoxFit.cover,
+                    //   filterQuality: FilterQuality.high,
+                    // ),
+                    // const SizedBox(width: 10),
                     Image.asset(
                       AppImages.workspacePaths,
                       fit: BoxFit.cover,
