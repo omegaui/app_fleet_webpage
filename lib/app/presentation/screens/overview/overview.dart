@@ -18,12 +18,6 @@ class Overview extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    if (!cacheDone) {
-      for (var image in features.values) {
-        precacheImage(image, context);
-      }
-      cacheDone = true;
-    }
     final size = MediaQuery.sizeOf(context).width;
     return Stack(
       children: [
@@ -39,8 +33,9 @@ class Overview extends StatelessWidget {
         Align(
           alignment: Alignment.center,
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.end,
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              const SizedBox(height: 80),
               Text(
                 "Meet App Fleet",
                 style: AppTheme.fontSize(64),
@@ -87,7 +82,6 @@ class Overview extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(height: 125),
             ],
           ),
         ),
